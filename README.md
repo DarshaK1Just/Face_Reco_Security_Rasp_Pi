@@ -3,7 +3,8 @@
 Basically project in 2 staeps :-
 
 **(1) Training the System :** Our code performs face encoding using the HOG (Histogram of Oriented Gradients) method
-and saves the encodings to a pickle file
+and saves the encodings to a pickle file.
+
 **(2) Face Recognition Algorithm :** This code demonstrates a facial recognition system using the face_recognition
 library and imutils for video processing.
 
